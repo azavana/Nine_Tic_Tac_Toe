@@ -1,5 +1,5 @@
 # Nine_Tic_Tac_Toe_Game
-9x9 Tic Tac Toe Game for two players.
+A Tic Tac Toe Game for two players on a 9x9 board
 
 
 # How it works ?
