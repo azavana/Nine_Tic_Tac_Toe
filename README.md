@@ -4,6 +4,6 @@ A Tic Tac Toe Game for two players on a 9x9 board
 
 # How it works ?
 
-- Player 1 play on Green side and Player 2 play on Yellow side.
+- Player_1 plays on Green side and Player_2 plays on Yellow side.
 - Moves are implemented in mathematical coordinates.
 
